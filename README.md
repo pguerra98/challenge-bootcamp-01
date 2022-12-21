@@ -3,10 +3,8 @@
 ## Description
 
 In this bootcamp challenge, the main goal was to perform a "on-the-job ticket", which means a starter code is already given and I have to modify it in order
-to improve the code without changing what it already does. I am working on this project to enhance my refactoring skills.
-
-- What was your motivation?
-- What did you learn?
+to improve the code. I am working on this project to enhance my refactoring skills, which means that I need to consolidate and improve the code without changing what it already does. This project taught me to be have a better understanding of being able to detect redundancy within codes, and to consolidate and clean when such a 
+scenario presents itself.
 
 ## Installation
 
