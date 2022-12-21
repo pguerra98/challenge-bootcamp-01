@@ -14,13 +14,13 @@ N/A
 
 ## Usage
 
-This code will be improved from its' previous given starter version. One example where it shows where the code was improved was...
+This code will be improved from its' previous given starter version. After reviewing the code and searching for ways to improve it, I noticed numerous cases where there was a lot of redundancy that needed to be consolidated. For example, as shown on the image below, the code "max-height-200px;" is being called out three times by three different classes. Therefore, to save some space and consolidate the code, I removed the ones highlighted in red and only called out the one highlighted in white on the html code.
 
-Provide instructions and examples for use. Include screenshots as needed.
+![alt text](assets/images/challenge-01-01.png)
 
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative file path, add it to your README using the following syntax:
+Also, here is a screenshot of the website being deployed and a link to it!
 
-![alt text](assets/images/screenshot.png)
+LINK:
 
 ## Credits
 
