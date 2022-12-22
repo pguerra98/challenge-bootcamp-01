@@ -16,7 +16,7 @@ This code will be improved from its' previous given starter version. After revie
 
 ![alt text](assets/images/challenge-01-01.png)
 
-Also, here is a screenshot of the website being deployed and a link to it!
+Also, here is a screenshot and a link of the deployed website!
 
 LINK:
 
