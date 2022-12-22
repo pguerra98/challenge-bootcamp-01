@@ -18,7 +18,9 @@ This code will be improved from its' previous given starter version. After revie
 
 Also, here is a screenshot and a link of the deployed website!
 
-LINK:
+![alt text](assets/images/deployed-website-screenshot.png)
+
+<a href="https://pguerra98.github.io/challenge-bootcamp-01-pedro-guerra/">Deployed Website Link</a>
 
 ## Credits
 
