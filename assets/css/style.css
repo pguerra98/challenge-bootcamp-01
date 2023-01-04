@@ -4,7 +4,6 @@
     margin: 0;
 }
 
-
 body {
     background-color: #d9dcd6;
 }
@@ -25,7 +24,7 @@ body {
     color: #d9dcd6;
 }
 
-.header div {
+.header section {
     padding-top: 15px;
     margin-right: 20px;
     float: right;
@@ -33,7 +32,13 @@ body {
     font-size: 20px;
 }
 
-.header div ul li {
+/* 
+I deleted a small code that was here previously as I saw
+it made no change to the webpage or the webpage
+functionality
+*/
+
+.header section ul li {
     display: inline-block;
     margin-left: 25px;
 }
@@ -99,6 +104,13 @@ p {
     max-width: 150px;
 }
 
+/*
+Starting below here is where I consolidated the previous code,
+and instead of having redudancy on having multiple callouts
+that used to repeat the same code, I instead only left one
+and changed the callout on the HTML file to correspond
+to the remaining one that I left on here
+*/
 .search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
