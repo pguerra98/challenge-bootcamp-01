@@ -20,7 +20,7 @@ Also, here is a screenshot and a link of the deployed website!
 
 ![alt text](assets/images/deployed-website-screenshot.png)
 
-<a href="https://pguerra98.github.io/challenge-bootcamp-01-pedro-guerra/">Deployed Website Link</a>
+<a href="https://pguerra98.github.io/horiseon-refactor-pedro-guerra/">Deployed Website Link</a>
 
 ## Credits
 
